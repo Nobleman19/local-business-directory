@@ -1,0 +1,266 @@
+[27-Feb-2026 10:30:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:31:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:31:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:44:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:48:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:49:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 10:49:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'category_name' in 'order clause' in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php(32): mysqli->query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(34): Category->getAll()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Category.php on line 32
+[27-Feb-2026 11:02:05 Europe/Berlin] PHP Deprecated:  Use of "self" in callables is deprecated in C:\xampp\htdocs\FindItLocal\php-app\classes\Validation.php on line 29
+[27-Feb-2026 11:02:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 cannot be passed by reference in C:\xampp\htdocs\FindItLocal\php-app\classes\User.php:31
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\controllers\AuthController.php(48): User->register(Array)
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(62): AuthController->signup()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\User.php on line 31
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:37:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:38:24 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:38:25 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:22 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:36 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 24
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 28
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 34
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 39
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 46
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 57
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 61
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\FindItLocal\php-app\views\dashboard\profile.php on line 67
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:40:43 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\FindItLocal\php-app\classes\Auth.php on line 9
+[27-Feb-2026 21:42:15 Europe/Berlin] PHP Deprecated:  Use of "self" in callables is deprecated in C:\xampp\htdocs\FindItLocal\php-app\classes\Validation.php on line 29
+[27-Feb-2026 21:44:44 Europe/Berlin] PHP Deprecated:  Use of "self" in callables is deprecated in C:\xampp\htdocs\FindItLocal\php-app\classes\Validation.php on line 29
+[27-Feb-2026 21:44:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 cannot be passed by reference in C:\xampp\htdocs\FindItLocal\php-app\classes\User.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\controllers\AuthController.php(48): User->register(Array)
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(62): AuthController->signup()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\User.php on line 32
+[27-Feb-2026 21:47:19 Europe/Berlin] PHP Deprecated:  Use of "self" in callables is deprecated in C:\xampp\htdocs\FindItLocal\php-app\classes\Validation.php on line 29
+[28-Feb-2026 23:08:09 Europe/Berlin] PHP Deprecated:  Use of "self" in callables is deprecated in C:\xampp\htdocs\FindItLocal\php-app\classes\Validation.php on line 29
+[28-Feb-2026 23:08:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 cannot be passed by reference in C:\xampp\htdocs\FindItLocal\php-app\classes\User.php:32
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\controllers\AuthController.php(48): User->register(Array)
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(62): AuthController->signup()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\User.php on line 32
+[28-Feb-2026 23:20:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in C:\xampp\htdocs\FindItLocal\php-app\classes\Contact.php:22
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\controllers\ContactController.php(25): Contact->sendMessage(Array)
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(174): ContactController->sendMessage()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Contact.php on line 22
+[28-Feb-2026 23:32:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in C:\xampp\htdocs\FindItLocal\php-app\classes\Contact.php:22
+Stack trace:
+#0 C:\xampp\htdocs\FindItLocal\php-app\controllers\ContactController.php(25): Contact->sendMessage(Array)
+#1 C:\xampp\htdocs\FindItLocal\php-app\index.php(174): ContactController->sendMessage()
+#2 {main}
+  thrown in C:\xampp\htdocs\FindItLocal\php-app\classes\Contact.php on line 22
+[04-Mar-2026 22:55:13 Europe/Berlin] PHP Warning:  Undefined array key "review_count" in C:\xampp\htdocs\FindItLocal\php-app\views\business\list.php on line 32
